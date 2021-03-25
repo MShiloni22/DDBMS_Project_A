@@ -3,6 +3,5 @@ public class MyClass {
         int y = 15;
         int x = 5;
         char letter = 'a';
-        char letter_b = 'b';
     }
 }
